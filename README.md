@@ -8,8 +8,12 @@ Encrypts string with a given secret key
 
 ## Usage
 
+    var stringCrypt = require('string-crypt')
+
+    var myEncryptedString = stringCrypt('STRING', 'mySecretKey')
+
 ## Credits
-Built by developers at [Clock](http://clock.co.uk).
+[Adam Duncan](https://github.com/microadam/) follow me on twitter [@microadam](http://twitter.com/microadam)
 
 ## Licence
 Licensed under the [New BSD License](http://opensource.org/licenses/bsd-license.php)
