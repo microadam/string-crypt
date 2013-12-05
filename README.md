@@ -1,5 +1,7 @@
 # string-crypt
 
+![build status](https://goo.gl/miKNQN)
+
 Encrypts string with a given secret key
 
 ## Installation
